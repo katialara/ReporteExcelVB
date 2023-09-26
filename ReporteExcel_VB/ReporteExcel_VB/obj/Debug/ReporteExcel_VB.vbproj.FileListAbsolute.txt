@@ -1,0 +1,12 @@
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\bin\Debug\ReporteExcel_VB.exe.config
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\bin\Debug\ReporteExcel_VB.exe
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\bin\Debug\ReporteExcel_VB.pdb
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\bin\Debug\ReporteExcel_VB.xml
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\obj\Debug\ReporteExcel_VB.vbprojAssemblyReference.cache
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\obj\Debug\ReporteExcel_VB.Form1.resources
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\obj\Debug\ReporteExcel_VB.Resources.resources
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\obj\Debug\ReporteExcel_VB.vbproj.GenerateResource.cache
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\obj\Debug\ReporteExcel_VB.vbproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\obj\Debug\ReporteExcel_VB.exe
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\obj\Debug\ReporteExcel_VB.xml
+C:\Users\pauli\source\repos\ReporteExcel_VB\ReporteExcel_VB\obj\Debug\ReporteExcel_VB.pdb

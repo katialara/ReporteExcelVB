@@ -1,0 +1,396 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ReporteExcel_VB
+</name>
+</assembly>
+<members>
+<member name="T:ReporteExcel_VB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ReporteExcel_VB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ReporteExcel_VB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.AplicaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.Ctr_CursosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.CursosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.DepartamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.EmpleadosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.EscolaridadDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.HorariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.InstructorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.OfrecenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.PRESUPUESTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.PuestosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.SalaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.TomaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.AplicaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.Ctr_CursosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.CursosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.DepartamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.EmpleadosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.EscolaridadRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.HorariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.InstructorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.OfrecenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.PRESUPUESTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.PuestosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.SalaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.TomaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.AplicaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.Ctr_CursosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.CursosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.DepartamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.EmpleadosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.EscolaridadRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.HorariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.InstructorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.OfrecenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.PRESUPUESTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.PuestosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.SalaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet.TomaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.AplicaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.Ctr_CursosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.CursosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.DepartamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.EmpleadosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.EscolaridadTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.HorariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.InstructorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.OfrecenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.PRESUPUESTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.PuestosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.SalaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.TomaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ReporteExcel_VB.CapacitacionDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ReporteExcel_VB.CapacitacionDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ReporteExcel_VB.CapacitacionDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ReporteExcel_VB.CapacitacionDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ReporteExcel_VB.CapacitacionDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ReporteExcel_VB.CapacitacionDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ReporteExcel_VB.CapacitacionDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ReporteExcel_VB.CapacitacionDataSetTableAdapters.TableAdapterManager.UpdateAll(ReporteExcel_VB.CapacitacionDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet1.InstructorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet1.InstructorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet1.InstructorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet1TableAdapters.InstructorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ReporteExcel_VB.CapacitacionDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(ReporteExcel_VB.CapacitacionDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ReporteExcel_VB.CapacitacionDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(ReporteExcel_VB.CapacitacionDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ReporteExcel_VB.CapacitacionDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(ReporteExcel_VB.CapacitacionDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ReporteExcel_VB.CapacitacionDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ReporteExcel_VB.CapacitacionDataSet1TableAdapters.TableAdapterManager.UpdateAll(ReporteExcel_VB.CapacitacionDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ReporteExcel_VB.CapacitacionDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
